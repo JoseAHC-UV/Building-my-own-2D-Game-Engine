@@ -8,3 +8,6 @@ WASD -> Moves the aircraft,
  Enter -> Restarts.
 Game Restarts if you die (get hit or rammed).
  Game ends when you shoot the B-17 down.
+
+
+Jose Alejandro Hurtado 1744883
