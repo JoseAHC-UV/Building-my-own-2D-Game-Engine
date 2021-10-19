@@ -3,8 +3,8 @@
 
 The folder "MyGame" contains the source code for the final game. You can run it like any other project (Apache Netbeans)
 Controls:
-WASD -> Moves the aircraft
-J -> Shoots
-Enter -> Restarts
-Game Restarts if you die (get hit or rammed)
-Game ends when you shoot the B-17 down.
+WASD -> Moves the aircraft,
+ J -> Shoots,
+ Enter -> Restarts.
+Game Restarts if you die (get hit or rammed).
+ Game ends when you shoot the B-17 down.
