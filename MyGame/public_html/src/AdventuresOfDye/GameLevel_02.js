@@ -430,7 +430,6 @@ GameLevel_02.prototype.gamewon = function () {
     this.B17down = true; 
     this.ggMsg.setText("He should crash into the sea now. Good Job");
     this.pointsMsg.setText("Total points:" + String(this.points));
-    this.continueMsg.setText("Press Enter to try again");
     this.mAllMinions.deleteFromSet();
 };
 
